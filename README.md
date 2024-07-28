@@ -1,4 +1,6 @@
 # Anime Haven
+![Anime Haven Logo](public/img/Homepage_screenshot.png)
+
 
 ## Description
 
