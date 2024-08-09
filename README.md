@@ -8,7 +8,11 @@ Visit Website [Anime Haven](https://app.netlify.com/sites/anime-haven-react/)
 Anime Haven is a React-based project designed for browsing and interacting with anime content.
 It utilizes CSS for styling, providing a visually appealing and user-friendly interface. 
 It's visually appealing with some dynamic parts  and transitions , I made at the time to 
-have a site for the recmmendation as well as simulcasts
+have a site for the recommendation as well as simulcasts.Purpose behind it's creations was
+to provide new fans into the community with info like Free streaming licensed sites/channels,
+platforms that let you stream with subscriptions, and OP Telegram channels that keep track of 
+everything Anime.
+Will Update the Catelog for recent seasons too sometime later, enjoy cloning it , using it .
 
 ## Installation
 
