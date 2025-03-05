@@ -1,5 +1,5 @@
 # Anime Haven
-![Anime Haven Logo](public/img/Homepage_screenshot.png)
+[![Anime Haven Logo](public/img/Homepage_screenshot.png)](https://anime-haven-react.netlify.app/)
 Visit Website [Anime Haven](https://anime-haven-react.netlify.app/)
 
 
